@@ -5,7 +5,7 @@ module.exports = {
       name: `Emily Huyett`,
       summary: `of Winchester, VA.`,
     },
-    pathPrefix: "/ems-blog",
+    pathPrefix: `/ems-blog`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
